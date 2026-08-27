@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "喂，喂",
+                    "name": "喟,喟",
                     "desc": "[WhenUse] 若<color=#ffffff>目標</color>帯有[Paralysis]，則使本技能的<color=#ffffff>硬幣威力</color>+1",
                     "coinlist": [
                         {
