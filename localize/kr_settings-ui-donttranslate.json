@@ -243,6 +243,18 @@
         {
             "id": "mainui_settings_renderingscale_warning",
             "content": "PC端推荐設置為[高]，手机端推荐設置為[中]或[低]。\n更高的萱染比例可能会導致設備発熱和功耗上升。"
+        },
+        {
+            "id": "mainui_settings_story_voice_download_title",
+            "content": "劇情語音"
+        },
+        {
+            "id": "mainui_settings_story_voice_download_desc",
+            "content": "下載或刪除劇情語音。"
+        },
+        {
+            "id": "mainui_settings_story_voice_download_button",
+            "content": "管理"
         }
     ]
 }

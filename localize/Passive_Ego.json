@@ -243,6 +243,11 @@
             "desc": "攻撃命中時，若<color=#ffffff>目標</color>的[Sinking]強度不低于5級，則対其施加1層破綻 。(<color=#7C5738>每回合</color>最多5次)"
         },
         {
+            "id": 2040512,
+            "name": "開罐的飲料",
+            "desc": "命中時，若<color=#ffffff>目標</color>的[Sinking]強度不低于5級，則対<color=#ffffff>目標</color>施加1層[Disarming](<color=#7C5738>每回合</color>最多5次)\n\n<style=\"highlight\">命中陷入混乱或陷入恐慌的<color=#ffffff>敵方単位</color>時，<color=#7C5738>下回合</color>使<color=#ffffff>自身</color>獲得1層[AttackUp](<color=#7C5738>每回合</color>最多3次;若是<color=#ffffff>集中遭遇戦</color>，則改為以本体判定)</style>"
+        },
+        {
             "id": 2060411,
             "name": "遠海的鷗鳴",
             "desc": "<color=#ffffff>敵方単位</color>陣亡時，使<color=#81BBE8>理智値</color>最低的1名<color=#ffffff>友方単位</color>恢復1点<color=#81BBE8>理智値</color>。\n每当<color=#ffffff>敵方単位</color>陣亡時，使<color=#81BBE8>理智値</color>恢復量増加2点。(最多増加9点)\n波次開始時，使増加的恢復量清零。"
@@ -266,6 +271,11 @@
             "id": 2020511,
             "name": "火焰之剣",
             "desc": "<color=#FE6E00>色欲</color>技能正面命中時，使<color=#ffffff>目標</color>増加1級焼傷 強度(<color=#7C5738>每回合</color>最多6次)"
+        },
+        {
+            "id": 2020512,
+            "name": "火焰之剣",
+            "desc": "<style=\"highlight\"><color=#FE0100>暴怒</color>或</style><color=#FE6E00>色欲</color>技能正面命中時，使<color=#ffffff>目標</color>増加1級[Combustion]強度(<color=#7C5738>每回合</color>最多6次)\n<style=\"highlight\">- 若<color=#ffffff>目標</color>的[Combustion]強度達到最大値，則改為施加1層[DefenseDown]\n\n使用<color=#A6FE00>暴食</color>基礎技能時，獲得1个<color=#A6FE00>暴食</color>E.G.O資源(<color=#7C5738>每回合</color>最多1次)</style>"
         },
         {
             "id": 2060511,
@@ -428,7 +438,7 @@
         },
         {
             "id": 2100711,
-            "name": "骯臓的皮",
+            "name": "殃臓的皮",
             "desc": "<color=#ffffff>戦斗開始</color>時，若<color=#ffffff>自身</color>帯有負面状態，則使<color=#ffffff>自身</color>獲得1層[ParryingResultUp]与1層[Endurance]\n- <color=#ffffff>自身</color>每帯有3種負面状態，使<color=#ffffff>自身</color>獲得1層[Protection](最多2層)"
         },
         {
@@ -600,6 +610,11 @@
             "name": "燉菜噴涌",
             "desc": "<color=#ffffff>自身</color>的攻撃反面命中時，若<color=#ffffff>目標</color>為<color=#ffffff>敵方単位</color>，則使<color=#ffffff>目標</color>増加1級[Combustion]強度\n\n<style=\"highlight\">対<color=#ffffff>敵方単位</color>使用増加[Combustion]強度或施加[Combustion]層数的基礎攻撃技能時，\n\n- 若該技能為加算硬幣技能\n· <color=#81BBE8>理智値</color>低于40点時，使<color=#ffffff>自身</color>恢復4点<color=#81BBE8>理智値</color>\n· <color=#81BBE8>理智値</color>不低于40点時，使<color=#ffffff>自身</color>造成的<color=#ffffff>傷害</color>+10%\n\n- 若該技能為減算硬幣技能\n· <color=#81BBE8>理智値</color>高于-25点時，使<color=#ffffff>自身</color>失去4点<color=#81BBE8>理智値</color>(該效果不会使<color=#ffffff>自身</color>的<color=#81BBE8>理智値</color>低于-40点)\n· <color=#81BBE8>理智値</color>不高于-25点時，使<color=#ffffff>自身</color>造成的<color=#ffffff>傷害</color>+10%</style>",
             "summary": "反面命中時，使<color=#ffffff>目標</color>増加[Combustion]強度。使<color=#ffffff>自身</color>恢復或失去<color=#81BBE8>理智値</color>，或造成的<color=#ffffff>傷害</color>増加"
+        },
+        {
+            "id": 2121011,
+            "name": "処理遷居申請",
+            "desc": "若最大<color=#7C5738>共鳴</color>数不低于3，則<color=#ffffff>自身</color>技能命中時，<color=#7C5738>下回合</color>対主要<color=#ffffff>目標</color>施加1層[Binding](<color=#7C5738>每回合</color>最多1次)\n\n若<color=#ffffff>自身</color>的[Charge]強度不低于3級，則使<color=#ffffff>自身</color>獲得或消耗[Charge]層数的基礎技能与使<color=#ffffff>敵方単位</color>増加[Combustion]強度或対<color=#ffffff>敵方単位</color>[Combustion]焼傷層数的基礎技能造成的<color=#ffffff>傷害</color>+10%"
         }
     ]
 }

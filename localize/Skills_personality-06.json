@@ -3572,7 +3572,7 @@
                                     "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加1層[Combustion]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] <color=#7C5738>下回合</color>対<color=#ffffff>目標</color>施加2層[DefenseDown](<color=#7C5738>每回合</color>最多2次)"
+                                    "desc": "[CriticalOnSucceedAttack] 対<color=#ffffff>目標</color>施加2層[DefenseDown](<color=#7C5738>每回合</color>最多2次)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] 若<color=#ffffff>目標</color>帯有[DianxueHongLu]，則<color=#ffffff>重復使用</color>本硬幣(每个技能最多1次)"
@@ -3612,7 +3612,7 @@
                                     "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加1層[Combustion]<style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] <color=#7C5738>下回合</color>対<color=#ffffff>目標</color>施加2層[DefenseDown](<color=#7C5738>每回合</color>最多2次)<style=\"highlight\"></style>"
+                                    "desc": "[CriticalOnSucceedAttack] 対<color=#ffffff>目標</color>施加2層[DefenseDown](<color=#7C5738>每回合</color>最多2次)<style=\"highlight\"></style>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] 若<color=#ffffff>目標</color>帯有[DianxueHongLu]，則<color=#ffffff>重復使用</color>本硬幣(每个技能最多1次)<style=\"highlight\"></style>"

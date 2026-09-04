@@ -2983,7 +2983,7 @@
             "simpleDesc": [
                 {
                     "abilityID": 9110,
-                    "simpleDesc": "若符合条件，則随机対1名<color=#ffffff>敵方単位</color>造成<color=#FED233>怠惰</color><color=#ffffff>傷害</color>"
+                    "simpleDesc": "若符合条件，則<color=#7C5738>下回合</color>随机対1名<color=#ffffff>敵方単位</color>造成<color=#FED233>怠惰</color><color=#ffffff>傷害</color>"
                 }
             ]
         },
@@ -2994,7 +2994,7 @@
             "simpleDesc": [
                 {
                     "abilityID": 19110,
-                    "simpleDesc": "若符合条件，則随机対1名<color=#ffffff>敵方単位</color>造成<color=#FED233>怠惰</color><color=#ffffff>傷害</color>"
+                    "simpleDesc": "若符合条件，則<color=#7C5738>下回合</color>随机対1名<color=#ffffff>敵方単位</color>造成<color=#FED233>怠惰</color><color=#ffffff>傷害</color>"
                 }
             ]
         },
@@ -3005,7 +3005,7 @@
             "simpleDesc": [
                 {
                     "abilityID": 29110,
-                    "simpleDesc": "若符合条件，則随机対1名<color=#ffffff>敵方単位</color>造成<color=#FED233>怠惰</color><color=#ffffff>傷害</color>"
+                    "simpleDesc": "若符合条件，則<color=#7C5738>下回合</color>随机対1名<color=#ffffff>敵方単位</color>造成<color=#FED233>怠惰</color><color=#ffffff>傷害</color>"
                 }
             ]
         },
@@ -3106,7 +3106,7 @@
             "simpleDesc": [
                 {
                     "abilityID": 9114,
-                    "simpleDesc": "若符合条件，則随机使其他<color=#ffffff>敵方単位</color>増加[Vibration]強度1/3的[Vibration]強度"
+                    "simpleDesc": "若符合条件，則<color=#7C5738>下回合</color>随机使其他<color=#ffffff>敵方単位</color>増加[Vibration]強度1/3的[Vibration]強度"
                 },
                 {
                     "abilityID": 91141,

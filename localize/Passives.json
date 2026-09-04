@@ -2381,7 +2381,7 @@
         {
             "id": 1041203,
             "name": "給袮們都看点有趣的",
-            "desc": "<color=#ffffff>戦斗開始</color>時，使N公司E.G.O::<noparse>凶彈</noparse> 李箱的技能“調整<color=#ffffff>目標</color>射撃”獲得以下效果\n- 使用該技能前，若N公司E.G.O::<noparse>輕蔑</noparse>，敬畏 良秀帯有[ContemptPersonality]且可使用其基礎技能，則対良秀使用“開火/无論何時”(<color=#7C5738>每回合</color>最多1次，“開火/无論何時”以李箱的同步階段為准)\n- 使用該技能前，若該技能的主要<color=#ffffff>目標</color>不為N公司E.G.O::<noparse>輕蔑</noparse>，敬畏 良秀且可使用其基礎技能，則良秀使用其1技能対主要<color=#ffffff>目標</color>進行単方面攻撃(<color=#7C5738>每回合</color>最多1次，[CantIdentify]，1技能造成的<color=#ffffff>傷害</color>-50%，且不会<color=#7C5738>撃殺</color>主要<color=#ffffff>目標</color>)"
+            "desc": "<color=#ffffff>戦斗開始</color>時，使N公司E.G.O::<noparse>凶彈</noparse> 李箱的技能“調整<color=#ffffff>目標</color>射撃”獲得以下效果\n- 使用該技能前，若N公司E.G.O::<noparse>輕蔑</noparse>，敬畏 良秀帯有[ContemptPersonality]且可使用其基礎技能，則対良秀使用“開火/无論何時”(<color=#7C5738>每回合</color>最多1次，“開火/无論何時”以李箱的同步階段為准)\n- 使用該技能前，若該技能的主要<color=#ffffff>目標</color>不為N公司E.G.O::<noparse>輕蔑</noparse>，敬畏 良秀且良秀可使用基礎技能，則良秀使用其1技能対主要<color=#ffffff>目標</color>進行単方面攻撃(<color=#7C5738>每回合</color>最多1次，[CantIdentify]，1技能造成的<color=#ffffff>傷害</color>-50%，且不会<color=#7C5738>撃殺</color>主要<color=#ffffff>目標</color>)"
         },
         {
             "id": 1041221,
@@ -3027,7 +3027,7 @@
         {
             "id": 1111506,
             "name": "閨女…謝了。",
-            "desc": "若<color=#ffffff>自身</color>的剣処于[MiddleFatherSwordFourOutis]状態，則現存<color=#61DA61>体力</color>低于20%的<color=#ffffff>友方単位</color>与<color=#ffffff>敵方単位</color>拼点失敗時，指定該<color=#ffffff>敵方単位</color>為主要<color=#ffffff>目標</color>，該<color=#ffffff>友方単位</color>為次要<color=#ffffff>目標</color>，使用“永不遺忘閨女為家人犠牲的心意，我会如数奉還”(每場戦斗最多1次)\n- 蜘蛛巢 中指 子輩 以實瑪利判定触発的<color=#61DA61>体力</color>条件改為30%\n\n該技能<color=#7C5738>撃殺</color>属于中指的<color=#ffffff>友方単位</color>時，<color=#7C5738>下回合</color>使<color=#ffffff>自身</color>獲得1層[VioletDamageUp]\n- <color=#7C5738>撃殺</color>蜘蛛巢 中指 子輩以 實瑪利時，改為在<color=#7C5738>下回合</color>獲得[MidFamilyOutis]"
+            "desc": "若<color=#ffffff>自身</color>的剣処于[MiddleFatherSwordFourOutis]状態，則現存<color=#61DA61>体力</color>低于20%的<color=#ffffff>友方単位</color>与<color=#ffffff>敵方単位</color>拼点失敗時，指定該<color=#ffffff>敵方単位</color>為主要<color=#ffffff>目標</color>，該<color=#ffffff>友方単位</color>為次要<color=#ffffff>目標</color>，使用“永不遺忘閨女為家人犠牲的心意，我会如数奉還”(每場戦斗最多1次)\n- 蜘蛛巢 中指 子輩 以實瑪利判定触発的<color=#61DA61>体力</color>条件改為30%\n\n該技能<color=#7C5738>撃殺</color>属于中指的<color=#ffffff>友方単位</color>時，<color=#7C5738>下回合</color>使<color=#ffffff>自身</color>獲得1層[VioletDamageUp]\n- <color=#7C5738>撃殺</color>蜘蛛巢 中指 子輩 以實瑪利時，改為在<color=#7C5738>下回合</color>獲得[MidFamilyOutis]"
         },
         {
             "id": 1111521,

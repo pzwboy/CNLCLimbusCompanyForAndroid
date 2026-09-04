@@ -2067,6 +2067,14 @@
         {
             "id": "introduce_sentence_259",
             "content": "我們禁止超額預定{0}哦~。"
+        },
+        {
+            "id": "introduce_word_260",
+            "content": "捕獲"
+        },
+        {
+            "id": "introduce_sentence_260",
+            "content": "{0}流程継續、継續！継續進行！！！"
         }
     ]
 }

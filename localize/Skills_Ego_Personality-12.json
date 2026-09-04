@@ -879,6 +879,196 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 2121011,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "遷居申請",
+                    "abName": "Kqe-1j-23",
+                    "desc": "満足以下条件時，使本技能的<color=#ffffff>硬幣威力</color>増加(最多+3)\n- 主要<color=#ffffff>目標</color>每帯有6級[Combustion]強度，使本技能的<color=#ffffff>硬幣威力</color>+1\n- 使本技能的<color=#ffffff>硬幣威力</color>+(<color=#ffffff>自身</color>的[Charge]強度-1)\n[BeforeAttack] 令本技能増加的[Combustion]強度額外+(<color=#ffffff>自身</color>的[Charge]強度-1)級(最多+2)\n[BeforeAttack] 使<color=#ffffff>自身</color>獲得(最大<color=#7C5738>共鳴</color>数+1)層[Charge](最多7層)\n[BeforeAttack] 消耗<color=#ffffff>自身</color>最多15層[Charge]，每消耗1層[Charge]，使本技能造成的<color=#ffffff>傷害</color>+1%(最多+15%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>増加1級[Combustion]強度"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 若<color=#ffffff>目標</color>帯有[IDMicroChip]或[Binding]，則対其施加2層[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加1層[IDMicroChip]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#7C5738>下回合</color>対<color=#ffffff>目標</color>施加1層[Binding]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "遷居申請",
+                    "abName": "Kqe-1j-23",
+                    "desc": "満足以下条件時，使本技能的<color=#ffffff>硬幣威力</color>増加(最多+3)\n- 主要<color=#ffffff>目標</color>每帯有6級[Combustion]強度，使本技能的<color=#ffffff>硬幣威力</color>+1\n- 使本技能的<color=#ffffff>硬幣威力</color>+(<color=#ffffff>自身</color>的[Charge]強度-1)\n[BeforeAttack] 令本技能増加的[Combustion]強度額外+(<color=#ffffff>自身</color>的[Charge]強度-1)級(最多+2)\n[BeforeAttack] 使<color=#ffffff>自身</color>獲得(最大<color=#7C5738>共鳴</color>数+1)層[Charge](最多7層)\n<style=\"highlight\">- 若<color=#ffffff>自身</color>的[Charge]層数不高于3層，則使<color=#ffffff>自身</color>額外獲得3層[Charge]</style>\n[BeforeAttack] 消耗<color=#ffffff>自身</color>最多15層[Charge]，每消耗1層[Charge]，使本技能造成的<color=#ffffff>傷害</color>+<style=\"highlight\">2</style>%(最多+<style=\"highlight\">30</style>%)\n<style=\"highlight\">[EndSkill] 若本技能的攻撃前效果消耗了15層[Charge]，則使<color=#ffffff>自身</color>獲得5層[Charge]</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>増加<style=\"highlight\">2</style>級[Combustion]強度"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 若<color=#ffffff>目標</color>帯有[IDMicroChip]或[Binding]，則対其施加2層[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] 使<color=#ffffff>自身</color>獲得2層[Charge]</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加1層[IDMicroChip]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#7C5738>下回合</color>対<color=#ffffff>目標</color>施加1層[Binding]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "遷居申請",
+                    "abName": "Kqe-1j-23",
+                    "desc": "満足以下条件時，使本技能的<color=#ffffff>硬幣威力</color>増加(最多+3)\n- 主要<color=#ffffff>目標</color>每帯有6級[Combustion]強度，使本技能的<color=#ffffff>硬幣威力</color>+1\n- 使本技能的<color=#ffffff>硬幣威力</color>+(<color=#ffffff>自身</color>的[Charge]強度-1)\n[BeforeAttack] 令本技能増加的[Combustion]強度額外+(<color=#ffffff>自身</color>的[Charge]強度-1)級(最多+2)\n[BeforeAttack] 使<color=#ffffff>自身</color>獲得(最大<color=#7C5738>共鳴</color>数+1)層[Charge](最多7層)\n- 若<color=#ffffff>自身</color>的[Charge]層数不高于3層，則使<color=#ffffff>自身</color>額外獲得3層[Charge]\n[BeforeAttack] 消耗<color=#ffffff>自身</color>最多15層[Charge]，每消耗1層[Charge]，使本技能造成的<color=#ffffff>傷害</color>+<style=\"highlight\">3</style>%(最多+<style=\"highlight\">45</style>%)\n[EndSkill] 若本技能的攻撃前效果消耗了15層[Charge]，則使<color=#ffffff>自身</color>獲得5層[Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>増加<style=\"highlight\">3</style>級[Combustion]強度"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 若<color=#ffffff>目標</color>帯有[IDMicroChip]或[Binding]，則対其施加2層[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 使<color=#ffffff>自身</color>獲得2層[Charge]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加<style=\"highlight\">2</style>層[IDMicroChip]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#7C5738>下回合</color>対<color=#ffffff>目標</color>施加1層[Binding]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2121021,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "遷居申請",
+                    "abName": "Kqe-1j-23",
+                    "desc": "[CantIdentify]\n随机指定<color=#ffffff>目標</color>\n満足以下条件時，使本技能的<color=#ffffff>硬幣威力</color>増加(最多+3)\n- 主要<color=#ffffff>目標</color>每帯有6級[Combustion]強度，使本技能的<color=#ffffff>硬幣威力</color>+1\n- 使本技能的<color=#ffffff>硬幣威力</color>+(<color=#ffffff>自身</color>的[Charge]強度-1)\n[BeforeAttack] 使<color=#ffffff>自身</color>獲得(最大<color=#7C5738>共鳴</color>数+3)層[Charge](最多10層)\n[BeforeAttack] 使本技能造成的<color=#ffffff>傷害</color>+(<color=#ffffff>自身</color>的[Charge]強度与層数之和-1)%(最多+20%)\n[EnemyKill] 使<color=#ffffff>自身</color>獲得4層[Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加1層[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加1層[IDMicroChip]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#7C5738>下回合</color>対<color=#ffffff>目標</color>施加1層[Binding]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "遷居申請",
+                    "abName": "Kqe-1j-23",
+                    "desc": "[CantIdentify]\n随机指定<color=#ffffff>目標</color>\n満足以下条件時，使本技能的<color=#ffffff>硬幣威力</color>増加(最多+3)\n- 主要<color=#ffffff>目標</color>每帯有6級[Combustion]強度，使本技能的<color=#ffffff>硬幣威力</color>+1\n- 使本技能的<color=#ffffff>硬幣威力</color>+(<color=#ffffff>自身</color>的[Charge]強度-1)\n[BeforeAttack] 使<color=#ffffff>自身</color>獲得(最大<color=#7C5738>共鳴</color>数+3)層[Charge](最多10層)\n[BeforeAttack] 使本技能造成的<color=#ffffff>傷害</color>+(<color=#ffffff>自身</color>的[Charge]強度与層数之和-1)×<style=\"highlight\">2</style>%(最多+<style=\"highlight\">40</style>%)\n[EnemyKill] \n- 使<color=#ffffff>自身</color>獲得4層[Charge]\n<style=\"highlight\">- <color=#7C5738>下回合</color>使<color=#ffffff>自身</color>獲得1層[AttackDmgUp](<color=#7C5738>每回合</color>最多1次)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加<style=\"highlight\">2</style>層[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加1層[IDMicroChip]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#7C5738>下回合</color>対<color=#ffffff>目標</color>施加1層[Binding]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnStartCoin] 消耗<color=#ffffff>自身</color>最多8層[Charge]</style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] 若本硬幣消耗了[Charge]層数，則対<color=#ffffff>目標</color>造成本硬幣最終<color=#ffffff>傷害</color>量(消耗的[Charge]層数×5)%的<color=#9702DE>嫉炉</color><color=#ffffff>傷害</color>(最少5%，最多40%)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "遷居申請",
+                    "abName": "Kqe-1j-23",
+                    "desc": "[CantIdentify]\n随机指定<color=#ffffff>目標</color>\n満足以下条件時，使本技能的<color=#ffffff>硬幣威力</color>増加(最多+3)\n- 主要<color=#ffffff>目標</color>每帯有6級[Combustion]強度，使本技能的<color=#ffffff>硬幣威力</color>+1\n- 使本技能的<color=#ffffff>硬幣威力</color>+(<color=#ffffff>自身</color>的[Charge]強度-1)\n[BeforeAttack] 使<color=#ffffff>自身</color>獲得(最大<color=#7C5738>共鳴</color>数+3)層[Charge](最多10層)\n[BeforeAttack] 使本技能造成的<color=#ffffff>傷害</color>+(<color=#ffffff>自身</color>的[Charge]強度与層数之和-1)×<style=\"highlight\">3</style>%(最多+<style=\"highlight\">60</style>%)\n[EnemyKill] \n- 使<color=#ffffff>自身</color>獲得4層[Charge]\n- <color=#7C5738>下回合</color>使<color=#ffffff>自身</color>獲得1層[AttackDmgUp](<color=#7C5738>每回合</color>最多1次)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加<style=\"highlight\">3</style>層[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加<style=\"highlight\">2</style>層[IDMicroChip]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#7C5738>下回合</color>対<color=#ffffff>目標</color>施加1層[Binding]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnStartCoin] 消耗<color=#ffffff>自身</color>最多8層[Charge]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 若本硬幣消耗了[Charge]層数，則対<color=#ffffff>目標</color>造成本硬幣最終<color=#ffffff>傷害</color>量(消耗的[Charge]層数×5)%的<color=#9702DE>嫉炉</color><color=#ffffff>傷害</color>(最少5%，最多40%)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

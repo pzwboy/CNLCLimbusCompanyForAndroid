@@ -287,6 +287,10 @@
         {
             "id": "AlwaysUseEGOPassive2010911",
             "name": "[脳叶公司E.G.O::庄厳哀悼 李箱専属 - 常駐效果]"
+        },
+        {
+            "id": "AlwaysUseEGOPassive",
+            "name": "[常駐效果]"
         }
     ]
 }

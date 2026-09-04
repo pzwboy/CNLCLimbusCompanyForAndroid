@@ -1813,22 +1813,6 @@
             "content": "将領取的奨励列表中\n播报員可能包含\n対尚未通過的章節的劇透。\n\n是否領取奨励？"
         },
         {
-            "id": "select_all",
-            "content": "全部選擇"
-        },
-        {
-            "id": "deselect_all",
-            "content": "全部解除"
-        },
-        {
-            "id": "story_voice_setting_ui_title",
-            "content": "劇情語音管理"
-        },
-        {
-            "id": "story_voice_setting_ui_desc",
-            "content": "（臨時Dummy）請選擇要應用語音的項目。"
-        },
-        {
             "id": "vending_machine_item_available_date_label",
             "content": "{0}月{1}日{2} ({3})后\n可在自動販賣机兌換"
         },

@@ -120,7 +120,7 @@
         {
             "id": 501911,
             "name": "映射戦斗",
-            "desc": "若与同一<color=#ffffff>目標</color>拼点不低于10次，\n則随机使<color=#ffffff>自身</color>的<color=#ffffff>拼点威力</color>増加或減少(拼点次数/10)(最多10)\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]与[Sinking]強度最多累計到30級，\n層数最多累計到10層\n\n第1編隊登場的<color=#7C5737>関峠開始</color>時，\n- 使<color=#ffffff>自身</color>与場上的<color=#ffffff>全体</color>罪人的<color=#81BBE8>理智値</color>変為30点\n(若是減算硬幣人格，則改為-30点)\n- 獲得所有属性的E.G.O資源各3个\n\n被動天退星的效果触発時，\n結束<color=#7C5738>本回合</color>并在<color=#7C5738>下回合</color>変為第2階段\n- <color=#ffffff>自身</color>帯有的状態效果不会因改変階段而重置\n\n第1与第2編隊登場的<color=#7C5737>関峠開始</color>時，\n根据現存<color=#61DA61>体力</color>比例，相應使以下被動按順序視作已触発\n- 高于85%： <noparse>虎標彈</noparse>装填\n- 不高于85%：<noparse>虎標彈</noparse>装填，雷横\n- 不高于66%：<noparse>虎標彈</noparse>装填，雷横，天退星\n- 不高于50%：<noparse>虎標彈</noparse>装填，雷横，天退星，小指 天退星雷横"
+            "desc": "若与同一<color=#ffffff>目標</color>拼点不低于10次，\n則随机使<color=#ffffff>自身</color>的<color=#ffffff>拼点威力</color>増加或減少(拼点次数/10)(最多10)\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]与[Sinking]強度最多累計到30級，\n層数最多累計到10層\n\n第1編隊登場的<color=#7C5737>関峠開始</color>時，\n- 使<color=#ffffff>自身</color>与場上的<color=#ffffff>全体</color>罪人的<color=#81BBE8>理智値</color>変為30点\n(若是減算硬幣人格，則改為-30点)\n- 獲得所有属性的E.G.O資源各3个\n\n被動天退星的效果触発時，\n結束<color=#7C5738>本回合</color>并在<color=#7C5738>下回合</color>変為第2階段\n- <color=#ffffff>自身</color>帯有的状態效果不会因改変階段而重置\n\n第1与第2編隊登場的<color=#7C5737>関峠開始</color>時，\n根据現存<color=#61DA61>体力</color>比例，相應使以下被動按順序視作已触発\n- 高于85%： <noparse>虎標彈</noparse>装填\n- 不高于85%：<noparse>虎標彈</noparse>装填，雷横\n- 不高于66%：<noparse>虎標彈</noparse>装填，雷横，<noparse>天退星</noparse>\n- 不高于50%：<noparse>虎標彈</noparse>装填，雷横，<noparse>天退星</noparse>，小指 天退星雷横"
         },
         {
             "id": 501901,

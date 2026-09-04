@@ -225,7 +225,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "処理小鎮遷居申請",
+                    "name": "処理遷居申請",
                     "desc": "[WhenUse] 消耗所有充能 層数",
                     "coinlist": [
                         {
@@ -311,7 +311,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "処理小鎮新遷居申請",
+                    "name": "処理新遷居申請",
                     "desc": "[CantDuel]\n[CantChangeTarget]\n指定<color=#61DA61>体力</color>最高的単位\n[WhenUse] 消耗所有充能 ",
                     "coinlist": [
                         {

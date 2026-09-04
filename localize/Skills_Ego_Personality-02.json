@@ -53,6 +53,27 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "level": 5,
+                    "name": "9章2節",
+                    "abName": "人皮預言者",
+                    "desc": "<style=\"highlight\">使用本技能所消耗的<color=#A6FE00>暴食</color>E.G.O資源減少1个</style>\n[BeforeAttack] 若<style=\"highlight\">最大<color=#7C5738>共鳴</color>数</style>不低于4，則使本技能的<color=#ffffff>攻撃容量</color>+1\n若<style=\"highlight\">最大<color=#7C5738>共鳴</color>数</style>不低于6，則使本技能的<color=#ffffff>攻撃容量</color>額外+1\n\n<style=\"highlight\">[BeforeAttack] <color=#ffffff>全体</color><color=#ffffff>目標</color>与<color=#ffffff>自身</color>的[Combustion]強度之和每有1級，使本技能造成的<color=#ffffff>傷害</color>+5%(最多+100%)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>増加3級[Combustion]強度<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] 対<color=#ffffff>目標</color>施加5層[DefenseDown]</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ffffff>目標</color>每帯有2級[Combustion]強度，将其轉化為1層[DefenseDown] (<style=\"highlight\">最多轉化5層，該效果不会使<color=#ffffff>目標</color>的[Combustion]強度降至1級以下)\n- 若<color=#ffffff>目標</color>的[Combustion]強度不足，則可轉化<color=#ffffff>自身</color>超過30級的[Combustion]強度以代替</style>"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -114,6 +135,33 @@
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] <color=#ffffff>目標</color>每帯有2級[Combustion]強度，将其轉化為1層防御等級降低 (最多轉化10層)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 5,
+                    "name": "9章2節",
+                    "abName": "人皮預言者",
+                    "desc": "[CantIdentify]\n随机指定<color=#ffffff>目標</color>\n<style=\"highlight\">使用本技能所消耗的<color=#A6FE00>暴食</color>E.G.O資源減少1个</style>\n[BeforeAttack] 若<style=\"highlight\">最大<color=#7C5738>共鳴</color>数</style>不低于4，則使本技能的<color=#ffffff>攻撃容量</color>+1\n若<style=\"highlight\">最大<color=#7C5738>共鳴</color>数</style>不低于6，則使本技能的<color=#ffffff>攻撃容量</color>額外+1\n\n<style=\"highlight\">[BeforeAttack] <color=#ffffff>全体</color><color=#ffffff>目標</color>与<color=#ffffff>自身</color>的[Combustion]強度之和每有1級，使本技能造成的<color=#ffffff>傷害</color>+6%(最多+120%)\n[DefeatDuel] 使本技能的<color=#ffffff>基礎威力</color>-10</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] </style><color=#7C5738>下回合</color>対<color=#ffffff>目標</color>施加2層[Binding]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>増加4級[Combustion]強度<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] 対<color=#ffffff>目標</color>施加5層[DefenseDown]</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ffffff>目標</color>每帯有2級[Combustion]強度，将其轉化為1層[DefenseDown] (<style=\"highlight\">最多轉化5層，該效果不会使<color=#ffffff>目標</color>的[Combustion]強度降至1級以下)\n- 若<color=#ffffff>目標</color>的[Combustion]強度不足，則可轉化<color=#ffffff>自身</color>超過30級的[Combustion]強度以代替</style>"
                                 }
                             ]
                         }

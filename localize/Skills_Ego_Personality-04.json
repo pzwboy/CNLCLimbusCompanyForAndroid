@@ -15,7 +15,7 @@
                                     "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>増加4級沈淪 強度"
                                 },
                                 {
-                                    "desc": "[EnemyKill] 獲得3个E.G.O資源，其属性為当前擁有的E.G.O資源中的其中一種"
+                                    "desc": "[EnemyKill] 随机獲得3个当前持有的E.G.O資源中的一種E.G.O資源"
                                 }
                             ]
                         }
@@ -33,7 +33,7 @@
                                     "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>増加5級沈淪 強度"
                                 },
                                 {
-                                    "desc": "[EnemyKill] 獲得3个E.G.O資源，其属性為当前擁有的E.G.O資源中的其中一種;使<color=#ffffff>全体</color><color=#ffffff>友方単位</color>恢復3点<color=#81BBE8>理智値</color>"
+                                    "desc": "[EnemyKill] 随机獲得3个当前持有的E.G.O資源中的一種E.G.O資源;使<color=#ffffff>全体</color><color=#ffffff>友方単位</color>恢復3点<color=#81BBE8>理智値</color>"
                                 }
                             ]
                         }
@@ -51,7 +51,28 @@
                                     "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>増加6級沈淪 強度"
                                 },
                                 {
-                                    "desc": "[EnemyKill] 獲得3个E.G.O資源，其属性為当前擁有的E.G.O資源中的其中一種;使<color=#ffffff>全体</color><color=#ffffff>友方単位</color>恢復3点<color=#81BBE8>理智値</color>"
+                                    "desc": "[EnemyKill] 随机獲得3个当前持有的E.G.O資源中的一種E.G.O資源;使<color=#ffffff>全体</color><color=#ffffff>友方単位</color>恢復3点<color=#81BBE8>理智値</color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 5,
+                    "name": "美味蘇打",
+                    "abName": "韋尓奇樂牌汽水",
+                    "desc": "<style=\"highlight\">若<color=#ffffff>目標</color>現存<color=#61DA61>体力</color>低于25%，則使本技能造成的<color=#ffffff>傷害</color>+40%\n[BeforeAttack] 若最大<color=#7C5738>共鳴</color>数不低于4，則使本技能的<color=#ffffff>攻撃容量</color>+1\n\n[EndSkill] <color=#7C5738>下回合</color>随机使包括<color=#ffffff>自身</color>在内的(2+最大<color=#7C5738>共鳴</color>数)名<color=#ffffff>友方単位</color>獲得1層[GainSinStockAdder](最多7名)\n[EndSkill] 若有攻撃<color=#ffffff>目標</color>陷入混乱或陷入恐慌，則獲得1个持有量最少的E.G.O資源;使<color=#ffffff>自身</color>恢復3点<color=#81BBE8>理智値</color></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] 使<color=#ffffff>目標</color>増加4級[Vibration]強度</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>増加6級[Sinking]強度<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[EnemyKill] 随机獲得3个当前持有的E.G.O資源中的一種E.G.O資源;使<color=#ffffff>全体</color><color=#ffffff>友方単位</color>恢復3点<color=#81BBE8>理智値</color><style=\"highlight\"></style>"
                                 }
                             ]
                         }
@@ -111,6 +132,33 @@
                                 },
                                 {
                                     "desc": "[EndSkill] 使<color=#ffffff>全体</color><color=#ffffff>友方単位</color>獲得1層E.G.O資源獲取量提升 ，并在<color=#7C5738>下回合</color>獲得1層迅捷 "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 5,
+                    "name": "美味蘇打",
+                    "abName": "韋尓奇樂牌汽水",
+                    "desc": "[CantIdentify]\n随机指定<color=#ffffff>目標</color>\n\n<style=\"highlight\">若<color=#ffffff>目標</color>現存<color=#61DA61>体力</color>低于25%，則使本技能造成的<color=#ffffff>傷害</color>+40%\n[DefeatDuel] 使本技能的<color=#ffffff>基礎威力</color>-12\n[BeforeAttack] 若最大<color=#7C5738>共鳴</color>数不低于4，則使本技能的<color=#ffffff>攻撃容量</color>+1\n[EndSkill] 若有攻撃<color=#ffffff>目標</color>陷入混乱或陷入恐慌，則獲得1个持有量最少的E.G.O資源;使<color=#ffffff>自身</color>恢復3点<color=#81BBE8>理智値</color></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] 使<color=#ffffff>目標</color>増加4級[Vibration]強度</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>増加6級[Sinking]強度<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[EndSkill] 使<color=#ffffff>全体</color><color=#ffffff>友方単位</color>獲得1層[GainSinStockAdder]，并在<color=#7C5738>下回合</color>獲得1層[Agility]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\"> [EndSkillTail] <color=#7C5738>下回合</color>使<color=#ffffff>全体</color><color=#ffffff>友方単位</color>獲得1層[GainSinStockAdder](<color=#7C5738>每回合</color>最多1次)</style>"
                                 }
                             ]
                         }
