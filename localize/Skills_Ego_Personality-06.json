@@ -1012,7 +1012,7 @@
                     "level": 1,
                     "name": "宁作吾",
                     "abName": "令",
-                    "desc": "[CantIdentify]\n随机指定<color=#ffffff>目標</color>\n[WhenUse] 使<color=#ffffff>自身</color>増加2級[Breath]強度并使<color=#ffffff>自身</color>獲得2層[Breath]\n[BeforeAttack] 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則使本技能的<color=#ffffff>硬幣威力</color>+1\n[EndSkill] 使<color=#ffffff>自身</color>獲得5層[Cianjing]\n- 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則消耗所有[Cianjing]与[SeniorCianjing]并使<color=#ffffff>自身</color>獲得5層[SeniorCianjing] ",
+                    "desc": "[CantIdentify]\n随机指定<color=#ffffff>目標</color>\n[WhenUse] 使<color=#ffffff>自身</color>増加2級[Breath]強度并使<color=#ffffff>自身</color>獲得2層[Breath]\n[BeforeAttack] 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則使本技能的<color=#ffffff>硬幣威力</color>+1\n[EndSkill] 使<color=#ffffff>自身</color>獲得5層[Cianjing]\n- 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則消耗所有[Cianjing]与[SeniorCianjing]并使<color=#ffffff>自身</color>獲得5層[SeniorCianjing]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1059,7 +1059,7 @@
                     "level": 3,
                     "name": "宁作吾",
                     "abName": "令",
-                    "desc": "[CantIdentify]\n随机指定<color=#ffffff>目標</color>\n[WhenUse] 使<color=#ffffff>自身</color>増加<style=\"highlight\">3</style>級[Breath]強度并使<color=#ffffff>自身</color>獲得<style=\"highlight\">3</style>層[Breath]\n[BeforeAttack] 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則使本技能的<style=\"highlight\"><color=#ffffff>攻撃容量</color>+1，<color=#ffffff>基礎威力</color>+1</style>，<color=#ffffff>硬幣威力</color>+1\n[EndSkill] 使<color=#ffffff>自身</color>獲得5層[Cianjing]\n- 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則消耗所有[Cianjing]与[SeniorCianjing]并使<color=#ffffff>自身</color>獲得5層[SeniorCianjing] ",
+                    "desc": "[CantIdentify]\n随机指定<color=#ffffff>目標</color>\n[WhenUse] 使<color=#ffffff>自身</color>増加<style=\"highlight\">3</style>級[Breath]強度并使<color=#ffffff>自身</color>獲得<style=\"highlight\">3</style>層[Breath]\n[BeforeAttack] 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則使本技能的<style=\"highlight\"><color=#ffffff>攻撃容量</color>+1，<color=#ffffff>基礎威力</color>+1</style>，<color=#ffffff>硬幣威力</color>+1\n[EndSkill] 使<color=#ffffff>自身</color>獲得5層[Cianjing]\n- 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則消耗所有[Cianjing]与[SeniorCianjing]并使<color=#ffffff>自身</color>獲得5層[SeniorCianjing]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1106,7 +1106,7 @@
                     "level": 4,
                     "name": "宁作吾",
                     "abName": "令",
-                    "desc": "[CantIdentify]\n随机指定<color=#ffffff>目標</color>\n[WhenUse] 使<color=#ffffff>自身</color>増加<style=\"highlight\">4</style>級[Breath]強度并使<color=#ffffff>自身</color>獲得<style=\"highlight\">4</style>層[Breath]\n[BeforeAttack] 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則使本技能的<color=#ffffff>攻撃容量</color><style=\"highlight\">+2</style>，<color=#ffffff>基礎威力</color><style=\"highlight\">+2</style>，<color=#ffffff>硬幣威力</color><style=\"highlight\">+2</style>\n[EndSkill] 使<color=#ffffff>自身</color>獲得5層[Cianjing]\n- 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則消耗所有[Cianjing]与[SeniorCianjing]并使<color=#ffffff>自身</color>獲得5層[SeniorCianjing] ",
+                    "desc": "[CantIdentify]\n随机指定<color=#ffffff>目標</color>\n[WhenUse] 使<color=#ffffff>自身</color>増加<style=\"highlight\">4</style>級[Breath]強度并使<color=#ffffff>自身</color>獲得<style=\"highlight\">4</style>層[Breath]\n[BeforeAttack] 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則使本技能的<color=#ffffff>攻撃容量</color><style=\"highlight\">+2</style>，<color=#ffffff>基礎威力</color><style=\"highlight\">+2</style>，<color=#ffffff>硬幣威力</color><style=\"highlight\">+2</style>\n[EndSkill] 使<color=#ffffff>自身</color>獲得5層[Cianjing]\n- 若<color=#ffffff>自身</color>帯有[Cianjing]或[SeniorCianjing]，則消耗所有[Cianjing]与[SeniorCianjing]并使<color=#ffffff>自身</color>獲得5層[SeniorCianjing]",
                     "coinlist": [
                         {
                             "coindescs": [

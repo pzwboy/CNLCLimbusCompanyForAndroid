@@ -1946,7 +1946,7 @@
                 {
                     "level": 2,
                     "name": "要用愛！呵！",
-                    "desc": "<style=\"highlight\"><color=#ffffff>自身</color>每帯有1級[ThePowerOfLoveAndHate]強度，使本技能造成的<color=#ffffff>傷害</color>+7.5%(最多+30%)\n[WhenUse] 消耗<color=#ffffff>自身</color>的6層[ThePowerOfLoveAndHate]并使本技能的<color=#ffffff>硬幣威力</color>+1</style>\n[WhenUse] 使<color=#ffffff>自身</color>獲得3層[ThePowerOfLoveAndHate] ",
+                    "desc": "<style=\"highlight\"><color=#ffffff>自身</color>每帯有1級[ThePowerOfLoveAndHate]強度，使本技能造成的<color=#ffffff>傷害</color>+7.5%(最多+30%)\n[WhenUse] 消耗<color=#ffffff>自身</color>的6層[ThePowerOfLoveAndHate]并使本技能的<color=#ffffff>硬幣威力</color>+1</style>\n[WhenUse] 使<color=#ffffff>自身</color>獲得3層[ThePowerOfLoveAndHate]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1970,7 +1970,7 @@
                 {
                     "level": 4,
                     "name": "要用愛！呵！",
-                    "desc": "<color=#ffffff>自身</color>每帯有1級[ThePowerOfLoveAndHate]強度，使本技能造成的<color=#ffffff>傷害</color>+<style=\"highlight\">12.5</style>%(最多+<style=\"highlight\">75</style>%)\n[WhenUse] 消耗<color=#ffffff>自身</color>的6層[ThePowerOfLoveAndHate]并使本技能的<color=#ffffff>硬幣威力</color>+1\n[WhenUse] 使<color=#ffffff>自身</color>獲得<style=\"highlight\">5</style>層[ThePowerOfLoveAndHate] ",
+                    "desc": "<color=#ffffff>自身</color>每帯有1級[ThePowerOfLoveAndHate]強度，使本技能造成的<color=#ffffff>傷害</color>+<style=\"highlight\">12.5</style>%(最多+<style=\"highlight\">75</style>%)\n[WhenUse] 消耗<color=#ffffff>自身</color>的6層[ThePowerOfLoveAndHate]并使本技能的<color=#ffffff>硬幣威力</color>+1\n[WhenUse] 使<color=#ffffff>自身</color>獲得<style=\"highlight\">5</style>層[ThePowerOfLoveAndHate]",
                     "coinlist": [
                         {
                             "coindescs": [

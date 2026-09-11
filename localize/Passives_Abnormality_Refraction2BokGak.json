@@ -158,7 +158,7 @@
         {
             "id": 962103,
             "name": "自体発電",
-            "desc": "首个<color=#7C5738>回合開始</color>時，使<color=#ffffff>自身</color>獲得3層[SelfCharge] \n每当巡回数増加時，相應使<color=#ffffff>自身</color>額外獲得1層[SelfCharge](最多8層)"
+            "desc": "首个<color=#7C5738>回合開始</color>時，使<color=#ffffff>自身</color>獲得3層[SelfCharge]\n每当巡回数増加時，相應使<color=#ffffff>自身</color>額外獲得1層[SelfCharge](最多8層)"
         },
         {
             "id": 962104,

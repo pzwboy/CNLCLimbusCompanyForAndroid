@@ -1608,7 +1608,7 @@
                 },
                 {
                     "abilityID": 90601,
-                    "simpleDesc": "造成([Burst]強度×[Burst]層数)的<color=#A6FE00>暴食</color><color=#ffffff>傷害</color>并使<color=#ffffff>目標</color>減少2層[Burst] "
+                    "simpleDesc": "造成([Burst]強度×[Burst]層数)的<color=#A6FE00>暴食</color><color=#ffffff>傷害</color>并使<color=#ffffff>目標</color>減少2層[Burst]"
                 }
             ]
         },
@@ -2132,7 +2132,7 @@
         {
             "id": 19075,
             "name": "充能式手套+",
-            "desc": "最大[Charge]層数+10\n\n<color=#7C5737>関峠開始</color>時，使<color=#ffffff>全体</color><color=#ffffff>友方単位</color><style=\"upgradeHighlight\">獲得6層[Charge]。</style>\n\n<color=#7C5738>回合開始</color>時，使<color=#ffffff>全体</color><color=#ffffff>友方単位</color><style=\"upgradeHighlight\">獲得3層[Charge]。</style>\n\n[第1順位<color=#ffffff>友方単位</color>専属] <color=#7C5737>関峠開始</color>時，獲得<style=\"upgradeHighlight\">10</style>層[ChoSuperCharge] ",
+            "desc": "最大[Charge]層数+10\n\n<color=#7C5737>関峠開始</color>時，使<color=#ffffff>全体</color><color=#ffffff>友方単位</color><style=\"upgradeHighlight\">獲得6層[Charge]。</style>\n\n<color=#7C5738>回合開始</color>時，使<color=#ffffff>全体</color><color=#ffffff>友方単位</color><style=\"upgradeHighlight\">獲得3層[Charge]。</style>\n\n[第1順位<color=#ffffff>友方単位</color>専属] <color=#7C5737>関峠開始</color>時，獲得<style=\"upgradeHighlight\">10</style>層[ChoSuperCharge]",
             "simpleDesc": [
                 {
                     "abilityID": 19075,
@@ -2151,7 +2151,7 @@
         {
             "id": 29075,
             "name": "充能式手套++",
-            "desc": "最大[Charge]層数+10\n\n<color=#7C5737>関峠開始</color>時，使<color=#ffffff>全体</color><color=#ffffff>友方単位</color><style=\"upgradeHighlight\">獲得8層[Charge]。</style>\n\n<color=#7C5738>回合開始</color>時，使<color=#ffffff>全体</color><color=#ffffff>友方単位</color><style=\"upgradeHighlight\">獲得4層[Charge]。</style>\n\n[第1順位<color=#ffffff>友方単位</color>専属] <color=#7C5737>関峠開始</color>時，獲得<style=\"upgradeHighlight\">20</style>層[ChoSuperCharge] ",
+            "desc": "最大[Charge]層数+10\n\n<color=#7C5737>関峠開始</color>時，使<color=#ffffff>全体</color><color=#ffffff>友方単位</color><style=\"upgradeHighlight\">獲得8層[Charge]。</style>\n\n<color=#7C5738>回合開始</color>時，使<color=#ffffff>全体</color><color=#ffffff>友方単位</color><style=\"upgradeHighlight\">獲得4層[Charge]。</style>\n\n[第1順位<color=#ffffff>友方単位</color>専属] <color=#7C5737>関峠開始</color>時，獲得<style=\"upgradeHighlight\">20</style>層[ChoSuperCharge]",
             "simpleDesc": [
                 {
                     "abilityID": 29075,

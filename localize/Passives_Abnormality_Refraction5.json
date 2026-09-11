@@ -28,7 +28,7 @@
         {
             "id": 863202,
             "name": "深呼吸",
-            "desc": "[Breath] 效果的<color=#ffffff>暴撃</color>率×1.5\n\n<color=#ffffff>暴撃</color>時：\n- 若[Breath] 強度不低于15級，則消耗(<color=#ffffff>自身</color>帯有的[Breath] 強度/5)級[Breath] 強度，使<color=#ffffff>暴撃</color>時造成的<color=#ffffff>傷害</color>+(消耗的[Breath] 強度×4)%\n- 若[Breath] 層数不低于15層，則消耗(<color=#ffffff>自身</color>帯有的[Breath] 層数/5)層[Breath] ，使<color=#ffffff>暴撃</color>時造成的<color=#ffffff>傷害</color>+(消耗的[Breath] 層数×8)%"
+            "desc": "[Breath]效果的<color=#ffffff>暴撃</color>率×1.5\n\n<color=#ffffff>暴撃</color>時：\n- 若[Breath]強度不低于15級，則消耗(<color=#ffffff>自身</color>帯有的[Breath]強度/5)級[Breath]強度，使<color=#ffffff>暴撃</color>時造成的<color=#ffffff>傷害</color>+(消耗的[Breath]強度×4)%\n- 若[Breath]層数不低于15層，則消耗(<color=#ffffff>自身</color>帯有的[Breath]層数/5)層[Breath]，使<color=#ffffff>暴撃</color>時造成的<color=#ffffff>傷害</color>+(消耗的[Breath]層数×8)%"
         },
         {
             "id": 863203,

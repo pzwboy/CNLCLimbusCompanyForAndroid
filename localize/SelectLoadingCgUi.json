@@ -6,11 +6,11 @@
         },
         {
             "id": "ui_loading_cg_tab_personality",
-            "content": "人格插圖"
+            "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">人格画像</font>"
         },
         {
             "id": "ui_loading_cg_tab_story",
-            "content": "故事插圖"
+            "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">故事画像</font>"
         },
         {
             "id": "ui_loading_cg_selected_count",
@@ -18,7 +18,7 @@
         },
         {
             "id": "ui_loading_cg_random_toggle",
-            "content": "随机選定"
+            "content": "随机選擇"
         },
         {
             "id": "ui_loading_cg_random_warning",

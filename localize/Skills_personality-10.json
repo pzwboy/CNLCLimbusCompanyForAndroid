@@ -1690,7 +1690,7 @@
                                     "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加1層[Vibration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加<style=\"highlight\">3</style>層[Combustion] "
+                                    "desc": "[OnSucceedAttack] 対<color=#ffffff>目標</color>施加<style=\"highlight\">3</style>層[Combustion]"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>[Switch_Vibration]為[VibrationIgnition]"

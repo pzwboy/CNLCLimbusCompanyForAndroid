@@ -116,7 +116,7 @@
         {
             "id": 132503,
             "name": "解放",
-            "desc": "回合結束時，若自身的[BlessingOfIndexPrescriptEnemy]層数為3層/6層/9層或現存体力不高于90%/75%/60%，\n- 使自身獲得[UnlockBuff_1]/[UnlockBuff_2]/[UnlockBuff_3]\n- 使自身理智値恢復為45点\n- <color=#ff6000><mark=#ff000040><b><u>消耗所有[PressureOfPrescript]</u></b></mark></color>并解除自身的混乱\n- 首次獲得[UnlockBuff_Base]的下回合，使自身獲得[BlessingOfIndexPrescriptEnemy]\n\n通過体力条件獲得[UnlockBuff_Base]時\n- 対自身施加(恢復的理智値/15)層[KarmaOfIndexStudent]\n- 若自身的[BlessingOfIndexPrescriptEnemy]層数低于3層/6層/9層，則使其層数変為3層/6層/9層，\n每獲得1層[BlessingOfIndexPrescriptEnemy]，下回合開始時対自身施加1層[DefenseDown]与2層[KarmaOfIndexStudent] \n\n自身使用強力攻撃的回合，使自身的最小与最大速度値+10",
+            "desc": "回合結束時，若自身的[BlessingOfIndexPrescriptEnemy]層数為3層/6層/9層或現存体力不高于90%/75%/60%，\n- 使自身獲得[UnlockBuff_1]/[UnlockBuff_2]/[UnlockBuff_3]\n- 使自身理智値恢復為45点\n- <color=#ff6000><mark=#ff000040><b><u>消耗所有[PressureOfPrescript]</u></b></mark></color>并解除自身的混乱\n- 首次獲得[UnlockBuff_Base]的下回合，使自身獲得[BlessingOfIndexPrescriptEnemy]\n\n通過体力条件獲得[UnlockBuff_Base]時\n- 対自身施加(恢復的理智値/15)層[KarmaOfIndexStudent]\n- 若自身的[BlessingOfIndexPrescriptEnemy]層数低于3層/6層/9層，則使其層数変為3層/6層/9層，\n每獲得1層[BlessingOfIndexPrescriptEnemy]，下回合開始時対自身施加1層[DefenseDown]与2層[KarmaOfIndexStudent]\n\n自身使用強力攻撃的回合，使自身的最小与最大速度値+10",
             "summary": "",
             "undefined": "-",
             "flavor": "“据説指令授予的剣与布只有在執行指令時才会解放并顕現其力量。”"

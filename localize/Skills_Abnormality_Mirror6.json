@@ -388,7 +388,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>陷入混乱并在<color=#7C5738>下回合</color>対其施加[Penetration] "
+                                    "desc": "[OnSucceedAttack] 使<color=#ffffff>目標</color>陷入混乱并在<color=#7C5738>下回合</color>対其施加[Penetration]"
                                 },
                                 {
                                     "desc": "[EndCoin] 使<color=#ffffff>目標</color>的[Laceration]強度減少25級，使<color=#ffffff>自身</color>増加相應的[Laceration]強度并獲得相應層数的[BloodDinner]"

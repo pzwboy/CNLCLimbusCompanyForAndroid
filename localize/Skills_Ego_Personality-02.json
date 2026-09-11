@@ -69,7 +69,7 @@
                                     "desc": "<style=\"highlight\">[OnSucceedAttack] 対<color=#ffffff>目標</color>施加5層[DefenseDown]</style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <color=#ffffff>目標</color>每帯有2級[Combustion]強度，将其轉化為1層[DefenseDown] (<style=\"highlight\">最多轉化5層，該效果不会使<color=#ffffff>目標</color>的[Combustion]強度降至1級以下)\n- 若<color=#ffffff>目標</color>的[Combustion]強度不足，則可轉化<color=#ffffff>自身</color>超過30級的[Combustion]強度以代替</style>"
+                                    "desc": "[OnSucceedAttack] <color=#ffffff>目標</color>每帯有2級[Combustion]強度，将其轉化為1層[DefenseDown](<style=\"highlight\">最多轉化5層，該效果不会使<color=#ffffff>目標</color>的[Combustion]強度降至1級以下)\n- 若<color=#ffffff>目標</color>的[Combustion]強度不足，則可轉化<color=#ffffff>自身</color>超過30級的[Combustion]強度以代替</style>"
                                 }
                             ]
                         }
@@ -161,7 +161,7 @@
                                     "desc": "<style=\"highlight\">[OnSucceedAttack] 対<color=#ffffff>目標</color>施加5層[DefenseDown]</style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <color=#ffffff>目標</color>每帯有2級[Combustion]強度，将其轉化為1層[DefenseDown] (<style=\"highlight\">最多轉化5層，該效果不会使<color=#ffffff>目標</color>的[Combustion]強度降至1級以下)\n- 若<color=#ffffff>目標</color>的[Combustion]強度不足，則可轉化<color=#ffffff>自身</color>超過30級的[Combustion]強度以代替</style>"
+                                    "desc": "[OnSucceedAttack] <color=#ffffff>目標</color>每帯有2級[Combustion]強度，将其轉化為1層[DefenseDown](<style=\"highlight\">最多轉化5層，該效果不会使<color=#ffffff>目標</color>的[Combustion]強度降至1級以下)\n- 若<color=#ffffff>目標</color>的[Combustion]強度不足，則可轉化<color=#ffffff>自身</color>超過30級的[Combustion]強度以代替</style>"
                                 }
                             ]
                         }

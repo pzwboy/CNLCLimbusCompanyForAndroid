@@ -569,7 +569,7 @@
                 {
                     "level": 1,
                     "name": "螺旋型紐曲場",
-                    "desc": "[CanDuelGuard] \n[StartBattle] 使賈環与仇甫獲得30点<color=#81BBE8>護盾</color>\n[WinDuel] 使賈環与仇甫獲得30点<color=#81BBE8>護盾</color>",
+                    "desc": "[CanDuelGuard]\n[StartBattle] 使賈環与仇甫獲得30点<color=#81BBE8>護盾</color>\n[WinDuel] 使賈環与仇甫獲得30点<color=#81BBE8>護盾</color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -986,7 +986,7 @@
                 {
                     "level": 1,
                     "name": "全黑仙丸-酉-守備",
-                    "desc": "[CanDuelGuard] \n[WhenUse] 若<color=#ffffff>目標</color>的[Laceration]与[Burst]強度之和不低于5級，則使本技能的<color=#ffffff>硬幣威力</color>+2\n[WhenUse] 使<color=#ffffff>自身</color>恢復8点<color=#81BBE8>理智値</color>\n[WhenUse] 使<color=#ffffff>自身</color>増加3級[Breath]強度并使<color=#ffffff>自身</color>獲得2層[Breath]",
+                    "desc": "[CanDuelGuard]\n[WhenUse] 若<color=#ffffff>目標</color>的[Laceration]与[Burst]強度之和不低于5級，則使本技能的<color=#ffffff>硬幣威力</color>+2\n[WhenUse] 使<color=#ffffff>自身</color>恢復8点<color=#81BBE8>理智値</color>\n[WhenUse] 使<color=#ffffff>自身</color>増加3級[Breath]強度并使<color=#ffffff>自身</color>獲得2層[Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1156,7 +1156,7 @@
                 {
                     "level": 1,
                     "name": "徒労无益的爭扎…！",
-                    "desc": "[CanDuelGuard] \n[WinDuel] 使賈母恢復15点<color=#81BBE8>理智値</color>。若賈母的<color=#81BBE8>理智値</color>低于0点，則改為恢復30点<color=#81BBE8>理智値</color>。",
+                    "desc": "[CanDuelGuard]\n[WinDuel] 使賈母恢復15点<color=#81BBE8>理智値</color>。若賈母的<color=#81BBE8>理智値</color>低于0点，則改為恢復30点<color=#81BBE8>理智値</color>。",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1395,7 +1395,7 @@
                 {
                     "level": 1,
                     "name": "我会安分守己",
-                    "desc": "[CanDuelGuard] \n[WinDuel] 使賈母恢復15点<color=#81BBE8>理智値</color>。若賈母的<color=#81BBE8>理智値</color>低于0点，則改為恢復30点<color=#81BBE8>理智値</color>。",
+                    "desc": "[CanDuelGuard]\n[WinDuel] 使賈母恢復15点<color=#81BBE8>理智値</color>。若賈母的<color=#81BBE8>理智値</color>低于0点，則改為恢復30点<color=#81BBE8>理智値</color>。",
                     "coinlist": [
                         {
                             "coindescs": [

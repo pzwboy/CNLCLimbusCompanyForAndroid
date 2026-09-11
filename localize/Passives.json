@@ -780,12 +780,12 @@
         {
             "id": 1010501,
             "name": "越戦越勇…",
-            "desc": "使<color=#ffffff>敵方単位</color>震顫引爆 時，每前移4点<color=#ffffff>混乱閾値</color>，対其施加1層[DefenseDown] (每名<color=#ffffff>敵方単位</color>，<color=#7C5738>每回合</color>最多5層)"
+            "desc": "使<color=#ffffff>敵方単位</color>震顫引爆 時，每前移4点<color=#ffffff>混乱閾値</color>，対其施加1層[DefenseDown](每名<color=#ffffff>敵方単位</color>，<color=#7C5738>每回合</color>最多5層)"
         },
         {
             "id": 1010521,
             "name": "收拾残局",
-            "desc": "<color=#61DA61>体力</color>上限最低的1名<color=#ffffff>友方単位</color>使<color=#ffffff>敵方単位</color>震顫引爆 時，每前移4点<color=#ffffff>混乱閾値</color>，<color=#7C5738>下回合</color>対其施加1層[DefenseDown] (每名<color=#ffffff>敵方単位</color>，每个回合最多3層)"
+            "desc": "<color=#61DA61>体力</color>上限最低的1名<color=#ffffff>友方単位</color>使<color=#ffffff>敵方単位</color>震顫引爆 時，每前移4点<color=#ffffff>混乱閾値</color>，<color=#7C5738>下回合</color>対其施加1層[DefenseDown](每名<color=#ffffff>敵方単位</color>，每个回合最多3層)"
         },
         {
             "id": 1110501,
@@ -2180,7 +2180,7 @@
         {
             "id": 1101321,
             "name": "再次装填",
-            "desc": "使用[Bullet]的人格中最先編入的<color=#ffffff>友方単位</color>攻撃后，若其現存[Bullet]数低于一半，則使其再次獲得其[Bullet]最大値一半的[Bullet](向上取整，每場戦斗最多1次，最大[Bullet]獲得量：5)\n\n- 強度与層数分別計算的[Bullet]随机増加強度与獲得層数\n- 若強度或層数為最大値，則獲得未達到最大値的[Bullet] \n- 若没有使用[Bullet]的人格，則該效果不会触発",
+            "desc": "使用[Bullet]的人格中最先編入的<color=#ffffff>友方単位</color>攻撃后，若其現存[Bullet]数低于一半，則使其再次獲得其[Bullet]最大値一半的[Bullet](向上取整，每場戦斗最多1次，最大[Bullet]獲得量：5)\n\n- 強度与層数分別計算的[Bullet]随机増加強度与獲得層数\n- 若強度或層数為最大値，則獲得未達到最大値的[Bullet]\n- 若没有使用[Bullet]的人格，則該效果不会触発",
             "summary": ""
         },
         {

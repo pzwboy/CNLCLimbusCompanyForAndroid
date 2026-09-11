@@ -438,7 +438,7 @@
         },
         {
             "id": 2100711,
-            "name": "殃臓的皮",
+            "name": "骯臓的皮",
             "desc": "<color=#ffffff>戦斗開始</color>時，若<color=#ffffff>自身</color>帯有負面状態，則使<color=#ffffff>自身</color>獲得1層[ParryingResultUp]与1層[Endurance]\n- <color=#ffffff>自身</color>每帯有3種負面状態，使<color=#ffffff>自身</color>獲得1層[Protection](最多2層)"
         },
         {
@@ -614,7 +614,7 @@
         {
             "id": 2121011,
             "name": "処理遷居申請",
-            "desc": "若最大<color=#7C5738>共鳴</color>数不低于3，則<color=#ffffff>自身</color>技能命中時，<color=#7C5738>下回合</color>対主要<color=#ffffff>目標</color>施加1層[Binding](<color=#7C5738>每回合</color>最多1次)\n\n若<color=#ffffff>自身</color>的[Charge]強度不低于3級，則使<color=#ffffff>自身</color>獲得或消耗[Charge]層数的基礎技能与使<color=#ffffff>敵方単位</color>増加[Combustion]強度或対<color=#ffffff>敵方単位</color>[Combustion]焼傷層数的基礎技能造成的<color=#ffffff>傷害</color>+10%"
+            "desc": "若最大<color=#7C5738>共鳴</color>数不低于3，則<color=#ffffff>自身</color>技能命中時，<color=#7C5738>下回合</color>対主要<color=#ffffff>目標</color>施加1層[Binding](<color=#7C5738>每回合</color>最多1次)\n\n若<color=#ffffff>自身</color>的[Charge]強度不低于3級，則使<color=#ffffff>自身</color>的獲得或消耗[Charge]層数的基礎技能与使<color=#ffffff>敵方単位</color>増加[Combustion]強度或対<color=#ffffff>敵方単位</color>施加[Combustion]層数的基礎技能造成的<color=#ffffff>傷害</color>+10%"
         }
     ]
 }

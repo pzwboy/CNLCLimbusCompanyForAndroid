@@ -366,7 +366,7 @@
         {
             "id": 133703,
             "name": "解放",
-            "desc": "<color=#7C5738>回合結束</color>時，若<color=#ffffff>自身</color>的[BlessingOfIndexPrescriptEnemy]層数為6層/9層或現存<color=#61DA61>体力</color>不高于80%/60%，\n- 使<color=#ffffff>自身</color>獲得[UnlockBuff_2]/[UnlockBuff_3]\n- 使<color=#ffffff>自身</color><color=#81BBE8>理智値</color>恢復為45点\n- 消耗所有[PressureOfPrescript]并解除<color=#ffffff>自身</color>的混乱\n\n通過<color=#61DA61>体力</color>条件獲得[UnlockBuff_Base]時\n- 対<color=#ffffff>自身</color>施加(恢復的<color=#81BBE8>理智値</color>/15)層[KarmaOfIndexStudent]\n- 若<color=#ffffff>自身</color>的[BlessingOfIndexPrescriptEnemy]層数低于6層/9層，則使其層数変為6層/9層，\n每獲得1層[BlessingOfIndexPrescriptEnemy]，<color=#7C5738>下回合</color>開始時対<color=#ffffff>自身</color>施加1層[DefenseDown]与2層[KarmaOfIndexStudent] \n\n<color=#ffffff>自身</color>使用強力攻撃的回合，使<color=#ffffff>自身</color>的最小与最大<color=#7C5737>速度値</color>+10",
+            "desc": "<color=#7C5738>回合結束</color>時，若<color=#ffffff>自身</color>的[BlessingOfIndexPrescriptEnemy]層数為6層/9層或現存<color=#61DA61>体力</color>不高于80%/60%，\n- 使<color=#ffffff>自身</color>獲得[UnlockBuff_2]/[UnlockBuff_3]\n- 使<color=#ffffff>自身</color><color=#81BBE8>理智値</color>恢復為45点\n- 消耗所有[PressureOfPrescript]并解除<color=#ffffff>自身</color>的混乱\n\n通過<color=#61DA61>体力</color>条件獲得[UnlockBuff_Base]時\n- 対<color=#ffffff>自身</color>施加(恢復的<color=#81BBE8>理智値</color>/15)層[KarmaOfIndexStudent]\n- 若<color=#ffffff>自身</color>的[BlessingOfIndexPrescriptEnemy]層数低于6層/9層，則使其層数変為6層/9層，\n每獲得1層[BlessingOfIndexPrescriptEnemy]，<color=#7C5738>下回合</color>開始時対<color=#ffffff>自身</color>施加1層[DefenseDown]与2層[KarmaOfIndexStudent]\n\n<color=#ffffff>自身</color>使用強力攻撃的回合，使<color=#ffffff>自身</color>的最小与最大<color=#7C5737>速度値</color>+10",
             "summary": "",
             "undefined": "-"
         },

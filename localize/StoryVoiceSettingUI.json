@@ -54,7 +54,7 @@
         },
         {
             "id": "story_voice_process_complete_desc",
-            "content": "更改所選章節的語音文件状態。"
+            "content": "已更改所選章節的語音文件状態。"
         },
         {
             "id": "story_voice_process_progress_count",

@@ -1227,7 +1227,7 @@
                 {
                     "level": 4,
                     "name": "渴火",
-                    "desc": "[StartBattle] 使<color=#ffffff>自身</color>増加7級[Combustion]強度并対<color=#ffffff>自身</color>施加1層[Combustion]\n[BeforeUse] 若<color=#ffffff>自身</color>的[Combustion] 強度不低于30級，則改為使用“紅艶刹 最大感應【劣化侵蝕】”\n<color=#ffffff>自身</color>每帯有5級[Combustion]強度，使本技能造成的<color=#ffffff>傷害</color>+12.5%(最多+50%)\n[WhenUse] <color=#ffffff>自身</color>的[Combustion]強度与<color=#ffffff>目標</color>的[Combustion]強度之和每有10点，使本技能的<color=#ffffff>基礎威力</color>+1(最多+2)\n[WhenUse] <color=#ffffff>自身</color>每失去30%<color=#61DA61>体力</color>，使本技能的<color=#ffffff>硬幣威力</color>+1(最多+2)",
+                    "desc": "[StartBattle] 使<color=#ffffff>自身</color>増加7級[Combustion]強度并対<color=#ffffff>自身</color>施加1層[Combustion]\n[BeforeUse] 若<color=#ffffff>自身</color>的[Combustion]強度不低于30級，則改為使用“紅艶刹 最大感應【劣化侵蝕】”\n<color=#ffffff>自身</color>每帯有5級[Combustion]強度，使本技能造成的<color=#ffffff>傷害</color>+12.5%(最多+50%)\n[WhenUse] <color=#ffffff>自身</color>的[Combustion]強度与<color=#ffffff>目標</color>的[Combustion]強度之和每有10点，使本技能的<color=#ffffff>基礎威力</color>+1(最多+2)\n[WhenUse] <color=#ffffff>自身</color>每失去30%<color=#61DA61>体力</color>，使本技能的<color=#ffffff>硬幣威力</color>+1(最多+2)",
                     "coinlist": [
                         {
                             "coindescs": [
